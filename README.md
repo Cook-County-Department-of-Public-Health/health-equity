@@ -9,7 +9,7 @@ The Research Subcommittee of the Cook County Department of Public Health (CCDPH)
 ### 1. Knowledge Gathering & Sharing
 - **Curate and maintain a living library** of peer-reviewed studies, professional reports, and journalistic investigations highlighting best practices in advancing health equity.
 - Create **digestible summaries and briefings** for CCDPH staff and committee members to translate complex research into actionable insights.
-- Host **regular discussions or journal clubs** to build shared understanding of emerging trends in equity-focused public health practice.
+- Host **monthly discussions** to build shared understanding of emerging trends in equity-focused public health practice.
 
 ### 2. Monitoring Policy & Practice Trends
 - **Track and analyze policy developments** at local, state, and federal levels (e.g., Medicaid expansion, artificial intelligence in public health, equity-related funding initiatives).
