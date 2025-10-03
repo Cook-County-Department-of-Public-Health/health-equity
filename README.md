@@ -1,4 +1,4 @@
-# Research Subcommittee Vision – CCDPH Health Equity Committee
+# Research Subcommittee – CCDPH Health Equity Committee
 
 The Research Subcommittee of the Cook County Department of Public Health (CCDPH) Health Equity Committee seeks to **advance health equity for all residents of suburban Cook County** by harnessing the power of research, data, and evidence-informed practice. Through rigorous inquiry and knowledge-sharing, the subcommittee will **identify and illuminate inequities, elevate effective strategies, and inform policies and programs** that close health gaps. Our work will not only improve health outcomes locally but also serve as a **model of equity-driven research for other health departments** striving to address structural barriers and create more just and healthy communities.
 
